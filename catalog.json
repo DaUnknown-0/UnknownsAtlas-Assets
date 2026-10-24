@@ -1,5 +1,5 @@
 {
- "tag": "v2",
+ "tag": "v3",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -2410,8 +2410,8 @@
   {
    "name": "train_floor_2.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_2.png",
-   "size": 898350,
-   "sha256": "990ac1f22f429d1fb025d6cbb2379644a34867ad2e21af08fdf5283c49861f47"
+   "size": 898550,
+   "sha256": "25fef21bbb204fb6fbf98716d3b289f15f7b3225b8d3425480f08e7acd7455c4"
   },
   {
    "name": "train_floor_3.png",
@@ -2460,6 +2460,12 @@
    "res": "UnknownsAtlas.Maps.train.train_fx_spark.png",
    "size": 100486,
    "sha256": "97a71a77e5b227443af3a0ee1a539822f6f208ad56da6feca2ddb92dc92803ae"
+  },
+  {
+   "name": "train_intro.cine",
+   "res": "UnknownsAtlas.Maps.train.train_intro.cine",
+   "size": 86475762,
+   "sha256": "f157416754f64ee4046c4a4081b79b617cc6495b7a9b701e15bb19e5d34abcae"
   },
   {
    "name": "train_props_0.png",
