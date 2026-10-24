@@ -1,5 +1,5 @@
 {
- "tag": "v4",
+ "tag": "v5",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -46,8 +46,8 @@
   {
    "name": "museum_floor_1.atx",
    "res": "UnknownsAtlas.Resources.museum_floor_1.atx",
-   "size": 212294,
-   "sha256": "7af8eec9c1f167f2e1b664400c1d6cc994ee24a470537048ceb4ecb4a7786e2c"
+   "size": 215218,
+   "sha256": "6232c9acabf031d862b802c26f01f647a37f5f57b1bc66a1a486c3779e05cb44"
   },
   {
    "name": "museum_floor_10.atx",
@@ -112,8 +112,8 @@
   {
    "name": "museum_floor_2.atx",
    "res": "UnknownsAtlas.Resources.museum_floor_2.atx",
-   "size": 240812,
-   "sha256": "ea638fa510e0ad018bf20fd2fae4193a96cbbe1732b0cfe4865f705b81846610"
+   "size": 267238,
+   "sha256": "8f89a358f5a24e0038907d9cc70ef59d185bf83a1dd2829b48023925f52d7d8e"
   },
   {
    "name": "museum_floor_3.atx",
@@ -160,8 +160,8 @@
   {
    "name": "museum_props_0.atx",
    "res": "UnknownsAtlas.Resources.museum_props_0.atx",
-   "size": 1116759,
-   "sha256": "12d289156288aad0f245451a43c5fc3ce3093759d51626903e6f57e7ba0a8a3d"
+   "size": 1223165,
+   "sha256": "c1bc9a611d8c573b992009ad94d1ed4893db0f7dfeb0139a4d987a794008f247"
   },
   {
    "name": "park_consoles_0.atx",
