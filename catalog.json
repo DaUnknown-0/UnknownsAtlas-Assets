@@ -1,5 +1,5 @@
 {
- "tag": "v6",
+ "tag": "v7",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -2464,8 +2464,8 @@
   {
    "name": "train_intro.cine",
    "res": "UnknownsAtlas.Maps.train.train_intro.cine",
-   "size": 87381782,
-   "sha256": "0dd68f0e34176d5a4e3bb1c4708eef0d4adeb8daf5e1476e5ca9dc3953277874"
+   "size": 87381780,
+   "sha256": "2a490dc5a63f53b8b345d234f049aebee99ac7b851bc6d9fe3961efd53179167"
   },
   {
    "name": "train_props_0.png",
