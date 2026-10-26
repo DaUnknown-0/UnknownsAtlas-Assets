@@ -1,5 +1,5 @@
 {
- "tag": "v8",
+ "tag": "v9",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -160,8 +160,8 @@
   {
    "name": "museum_props_0.atx",
    "res": "UnknownsAtlas.Resources.museum_props_0.atx",
-   "size": 1222834,
-   "sha256": "490bfa1497fb7d4ebf1ff4bfee44928b8791e1ec428dce2d4d2680411a6c75e8"
+   "size": 1224018,
+   "sha256": "ed2be50e6aaf3f6e861135931995ae2db7cf0030339947e8a0c712219de9eebc"
   },
   {
    "name": "park_consoles_0.atx",
@@ -1958,6 +1958,12 @@
    "sha256": "b86bde0c73de3e705c0a824e4c5b346f5ba5813538422e769c87ec223954e56d"
   },
   {
+   "name": "task_train_crank.png",
+   "res": "UnknownsAtlas.Maps.train.task_train_crank.png",
+   "size": 2937,
+   "sha256": "33b194ff260341fcac1c5d73b62625f0623072ed243ec9bf1565dc12fe83c658"
+  },
+  {
    "name": "task_train_gauge.png",
    "res": "UnknownsAtlas.Maps.train.task_train_gauge.png",
    "size": 28241,
@@ -2398,50 +2404,50 @@
   {
    "name": "train_floor_0.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_0.png",
-   "size": 946632,
-   "sha256": "22462f9d81ae3951e8ba90dbed5617100aed45ca0f7f2a7698d00fe5415f8a68"
+   "size": 945460,
+   "sha256": "f9d88a947281efef9999206e734561b0b30f2cbfdb44a3feb9a8aa5a68476c86"
   },
   {
    "name": "train_floor_1.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_1.png",
-   "size": 927535,
-   "sha256": "082303b9bf90e6a860d3ec84bc2da49e233fc5d9af388c4392880e5622e9244e"
+   "size": 928169,
+   "sha256": "ba4af45a477210e8ca5cb2dd57154e7643d1e3c768a5a9bbc33b758943b3e2cc"
   },
   {
    "name": "train_floor_2.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_2.png",
-   "size": 898550,
-   "sha256": "25fef21bbb204fb6fbf98716d3b289f15f7b3225b8d3425480f08e7acd7455c4"
+   "size": 898233,
+   "sha256": "940b6d339e3bf2177436decdde226681457f58b68aa0d5b53a38f09c26f3457b"
   },
   {
    "name": "train_floor_3.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_3.png",
-   "size": 566375,
-   "sha256": "1623aa7f06f880b53cebd2acfd9381f805d471a6732980ecc4b842ee9a12a54a"
+   "size": 551291,
+   "sha256": "0e66606dfa70b19d224b96393f947b6df331b03e277877a43463d1f101aaf43d"
   },
   {
    "name": "train_floor_4.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_4.png",
-   "size": 529658,
-   "sha256": "9c8b184994a9099535038427a047ab5d67ef1eb7c3272bcc05ff0ba84f2b71c4"
+   "size": 531280,
+   "sha256": "be2b7b57d990aec489e06097ab33a8840caf3f5d65f7a44e164720ad6b302630"
   },
   {
    "name": "train_floor_5.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_5.png",
-   "size": 608423,
-   "sha256": "6813e51635ab6432f4bf9b9a2058da02e43c18d5e36f538e46be53daeb32a4e6"
+   "size": 608665,
+   "sha256": "8e42542cb4f08739e1dff4c74572006b05836e5243bbfaf8483a6676310dd3ad"
   },
   {
    "name": "train_floor_6.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_6.png",
-   "size": 649048,
-   "sha256": "f2cafdd24b500b95a28700026a426506d0a4d01941e12d1fe7264263818ba913"
+   "size": 649060,
+   "sha256": "edfeec8c475f89711f0b985122178e16412e42d47e52503b668fa506150554e4"
   },
   {
    "name": "train_floor_7.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_7.png",
-   "size": 71856,
-   "sha256": "9b5a0efda6b6208a00cb25785f4e5620b526fc75c455add3b03cb7470bb8e5fc"
+   "size": 71589,
+   "sha256": "1e30d80115212468d7f522d0338296a95fa348a9f64fe976ac9fd35dda3f9e9e"
   },
   {
    "name": "train_fx_fire.png",
@@ -2462,6 +2468,12 @@
    "sha256": "97a71a77e5b227443af3a0ee1a539822f6f208ad56da6feca2ddb92dc92803ae"
   },
   {
+   "name": "train_fx_speed.png",
+   "res": "UnknownsAtlas.Maps.train.train_fx_speed.png",
+   "size": 5559,
+   "sha256": "da68e301101f9589a7dd6678b7202c63b59e344e0a232995a3e15310d3f19e21"
+  },
+  {
    "name": "train_intro.cine",
    "res": "UnknownsAtlas.Maps.train.train_intro.cine",
    "size": 87381780,
@@ -2470,14 +2482,14 @@
   {
    "name": "train_props_0.png",
    "res": "UnknownsAtlas.Maps.train.train_props_0.png",
-   "size": 1186346,
-   "sha256": "eca464c6ceec86f52fec1cb33fdbe0c2c9891a294a12fa5fb1538197fd954be3"
+   "size": 1186487,
+   "sha256": "f7d5a8510c81dc161ac1de30e84042f6eac822edfa74d636dc8045c9f3f3c483"
   },
   {
    "name": "train_props_1.png",
    "res": "UnknownsAtlas.Maps.train.train_props_1.png",
-   "size": 858180,
-   "sha256": "a88f0b599f9fb98c15175ac0f0a0bba4fb354d5aed81ee08a062fdc7894db4e8"
+   "size": 842173,
+   "sha256": "8a4a9c6b13cd3518f6889a37d0f7ae473d4a3c005cbdedde1fc207fe69818f73"
   },
   {
    "name": "train_scroll_0.png",
