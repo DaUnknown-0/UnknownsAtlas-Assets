@@ -1,5 +1,5 @@
 {
- "tag": "v12",
+ "tag": "v13",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -160,8 +160,8 @@
   {
    "name": "museum_props_0.atx",
    "res": "UnknownsAtlas.Resources.museum_props_0.atx",
-   "size": 2918420,
-   "sha256": "135ab3b7480d389a2864410eed2ab207e160c034100eb526debdde4108ecaf25"
+   "size": 2854157,
+   "sha256": "8c4aa0cae9fdba1d0ce1977e2cfe170fa0a3fa776af642b95575bcfe471f946d"
   },
   {
    "name": "park_consoles_0.atx",
