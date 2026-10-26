@@ -1,5 +1,5 @@
 {
- "tag": "v9",
+ "tag": "v10",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -34,8 +34,8 @@
   {
    "name": "museum_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.museum_consoles_0.atx",
-   "size": 410692,
-   "sha256": "69de3f97169987880bed43fee24829a5c61e7bbf5f50615b28abca9df901ba17"
+   "size": 447959,
+   "sha256": "7fd4b0097705a6149993ad97be6aeb938a56035cea441a4236331b5cdd4925a7"
   },
   {
    "name": "museum_floor_0.atx",
@@ -160,14 +160,14 @@
   {
    "name": "museum_props_0.atx",
    "res": "UnknownsAtlas.Resources.museum_props_0.atx",
-   "size": 1224018,
-   "sha256": "ed2be50e6aaf3f6e861135931995ae2db7cf0030339947e8a0c712219de9eebc"
+   "size": 2917753,
+   "sha256": "18688bc1f3d4f821cb84725d658f4d5b429a976d15514e8d492be52e3ff78418"
   },
   {
    "name": "park_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.park_consoles_0.atx",
-   "size": 429336,
-   "sha256": "9162faa39a627fd4ff5c1e92c6d19f74e2ab1188adbef26b9a1f02e143b8ee8a"
+   "size": 592601,
+   "sha256": "577c49832c056926286a862ce20410f5aefc966120011c3d9bab285313f29079"
   },
   {
    "name": "park_floor_0.atx",
@@ -244,26 +244,26 @@
   {
    "name": "park_props_0.atx",
    "res": "UnknownsAtlas.Resources.park_props_0.atx",
-   "size": 223825,
-   "sha256": "d62ee25e7f045c01397286c637f0c04a93c45c5856d88ac186725fcc91a4b2ea"
+   "size": 515366,
+   "sha256": "36e34404c0602adea3cf89585576b4a892f6f0015fbcbd769bc9d25c958d95bd"
   },
   {
    "name": "park_props_1.atx",
    "res": "UnknownsAtlas.Resources.park_props_1.atx",
-   "size": 226515,
-   "sha256": "be2bde85a2b0ac4ce7b9075d04da9d0fce2eb7581b5c0f0e1810f8bb45600c21"
+   "size": 735425,
+   "sha256": "8e369f1fc577101fbf7a72a85cc663a22f86d1094467bb6f234d4f5ba6f243e1"
   },
   {
    "name": "park_props_2.atx",
    "res": "UnknownsAtlas.Resources.park_props_2.atx",
-   "size": 424953,
-   "sha256": "6e97c78c5a26d35ca1d064d8ae28dc8484c82fe965dfbc44424d8827683ece3a"
+   "size": 856079,
+   "sha256": "c736f086b7d9b583a1cbfbfd22e1c15d34923b4e62085ae397b01af09d2f33cf"
   },
   {
    "name": "park_props_3.atx",
    "res": "UnknownsAtlas.Resources.park_props_3.atx",
-   "size": 50271,
-   "sha256": "7afbe90247c9e72a776bc44b9516f6a6b5f26d487aa3928be96dc81ede59432c"
+   "size": 229085,
+   "sha256": "7f490a7849da7d4809ec0191d96d6f1bb1db713016ef9156b57f18e0b851f577"
   },
   {
    "name": "task_audioguide.png",
@@ -2506,8 +2506,8 @@
   {
    "name": "wald_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.wald_consoles_0.atx",
-   "size": 487048,
-   "sha256": "37ce4ade9bf0772d6fa89508df29e8f3d8f31625ef6e7645d43374696a8cdfde"
+   "size": 593347,
+   "sha256": "4b7be88cf198e4999f248ec4065e2076a1fbfeb4e969c7a5eaa94ebd46593531"
   },
   {
    "name": "wald_floor_0.atx",
@@ -2632,8 +2632,8 @@
   {
    "name": "wald_props_0.atx",
    "res": "UnknownsAtlas.Resources.wald_props_0.atx",
-   "size": 931046,
-   "sha256": "18bc781592a097268ac7296dead2bcfaa72e8d485118e05f081af05b80af4aea"
+   "size": 2168120,
+   "sha256": "e07c0cf11d4f69b4640cd59ae363c8a83515eda6db07fd14ca4fe032b3915910"
   }
  ]
 }
