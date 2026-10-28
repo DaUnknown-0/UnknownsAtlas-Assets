@@ -1,5 +1,5 @@
 {
- "tag": "v14",
+ "tag": "v15",
  "files": [
   {
    "name": "fx_vc_heat.png",
@@ -496,8 +496,8 @@
   {
    "name": "task_eject_camp_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_camp_bg.jpg",
-   "size": 152707,
-   "sha256": "c07b8e6af51a4395b4f96451419dfe261a3ee58367c334bc599f3968e5bd9574"
+   "size": 421476,
+   "sha256": "c5724dcabef20b7ff0cb0e809ee7987e2ab038e8eba9d44bb46503a1083e405e"
   },
   {
    "name": "task_eject_canoe.png",
@@ -532,8 +532,8 @@
   {
    "name": "task_eject_depot_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_depot_bg.jpg",
-   "size": 293372,
-   "sha256": "7b9920cfc43a37c80cc97c20f1116ebb1f1c73710add77a66cceb607c6a899d5"
+   "size": 606082,
+   "sha256": "151905e8ba8fa5f4ada5370fa9f179257cac4b30a94d2304a85e0aacfa453677"
   },
   {
    "name": "task_eject_door.png",
@@ -604,8 +604,8 @@
   {
    "name": "task_eject_gallery_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_gallery_bg.jpg",
-   "size": 213648,
-   "sha256": "c0eedbf83ed7901f04373f182a29a59621b67f9fd830db52a86037229818ed86"
+   "size": 516629,
+   "sha256": "5cd909a83c4a76df210bf665f2ea33782a9dff0f7c355b02a54c446d1c8dbb93"
   },
   {
    "name": "task_eject_glow.png",
@@ -622,8 +622,8 @@
   {
    "name": "task_eject_hall_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_hall_bg.jpg",
-   "size": 189992,
-   "sha256": "349a4692cd78c7d56ab02d50437c7126c06ff478b3b67cdb53d4ce82d96fdf8c"
+   "size": 590878,
+   "sha256": "53ebc797fdfbc01765b3c3da635bc52038af67834445e3a6d4c9c955a22d37d6"
   },
   {
    "name": "task_eject_hall_fg.png",
@@ -664,8 +664,8 @@
   {
    "name": "task_eject_night_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_night_bg.jpg",
-   "size": 180979,
-   "sha256": "b24515bb6b7666b48bf4c9e85a811344134805d7487947152b1c13efdd73880b"
+   "size": 578781,
+   "sha256": "b2ea8520997750a0b7ff4bea70ff4bcea85fbe0d818ecaf109b21d521ba7b401"
   },
   {
    "name": "task_eject_owl.png",
@@ -766,26 +766,26 @@
   {
    "name": "task_eject_pk_fair_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_pk_fair_bg.jpg",
-   "size": 225781,
-   "sha256": "19ccfb52153b8d86a8862391933a2cdf6ca7c29488f9d055f387db8de6d6f891"
+   "size": 461285,
+   "sha256": "d8ebdea40172f9c6639679ad258dd7436672f9c2259f5b76f0db8f0d15a2b828"
   },
   {
    "name": "task_eject_pk_ferris_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_pk_ferris_bg.jpg",
-   "size": 230376,
-   "sha256": "60fd8690db105ad70609001f68cf3edf55bbb87e0228bc97f80bdd784b54ce79"
+   "size": 497727,
+   "sha256": "5c3ab4013bd43a0454b750bbc7dd67141c7f772af668c19489c0c6d586654f5a"
   },
   {
    "name": "task_eject_pk_flume_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_pk_flume_bg.jpg",
-   "size": 245839,
-   "sha256": "c70838ff69cd62ab638e615428bdd9af6a743957a443fd45a16735030d9f2d91"
+   "size": 655597,
+   "sha256": "36d474b48c36e2ca3f2138b3c56fa9eea5eeb500bce4eb06d1f60d6202a7decb"
   },
   {
    "name": "task_eject_pk_ghost_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_pk_ghost_bg.jpg",
-   "size": 163389,
-   "sha256": "fd61e1f4b8c8a738b6a415de8d85ef92b4d999ed27a54ac82e086458bacafaa7"
+   "size": 329880,
+   "sha256": "ea71de04e182977c8b2a750607bcfe506de8abe3f3321ab1314e6f74b0a332d3"
   },
   {
    "name": "task_eject_pk_ghostcar.png",
@@ -826,8 +826,8 @@
   {
    "name": "task_eject_pk_loop_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_pk_loop_bg.jpg",
-   "size": 200105,
-   "sha256": "af14dfd1855d4b252ec096ea3cffa8fb6e4feee7139465f09d4c5bf4153ff9e9"
+   "size": 355323,
+   "sha256": "1234d5127b25eea67eb98dbb16c79efe2481438063c273108ba5e3ff63bc3ca1"
   },
   {
    "name": "task_eject_pk_maw_jaw.png",
@@ -844,8 +844,8 @@
   {
    "name": "task_eject_pk_pool_fg.png",
    "res": "UnknownsAtlas.Resources.task_eject_pk_pool_fg.png",
-   "size": 19431,
-   "sha256": "7e0aa415adc743ef05b6e2e77fa4c1834c20a1886278e09a9bbee9424d7b0ef9"
+   "size": 268298,
+   "sha256": "a68f5b16d0ac5ef1bc9ee5c7c805efd7a2bdd906d6d0b822780225b4c30d01f3"
   },
   {
    "name": "task_eject_pk_popper.png",
@@ -892,8 +892,8 @@
   {
    "name": "task_eject_river_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_river_bg.jpg",
-   "size": 176360,
-   "sha256": "8594780c3aabfda290df81fe507fa59ddd38ab9f66de4ce1abd6a8f1165b9100"
+   "size": 554392,
+   "sha256": "003b6c49cf73c89b8d464ce6373757e3ab19f50876fbbb53d822822ec0135e01"
   },
   {
    "name": "task_eject_rock.png",
@@ -934,8 +934,8 @@
   {
    "name": "task_eject_tomb_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_tomb_bg.jpg",
-   "size": 234361,
-   "sha256": "f996f7e8e01e16d706dc8a8affc39b205291fb5e346b5705f4488c86ca7b6018"
+   "size": 843895,
+   "sha256": "380dccdff0f45f3939a2edfcdbdf4b02f6936a4fa56f37fc830b85cb6898b401"
   },
   {
    "name": "task_eject_tomb_pillar.png",
@@ -970,8 +970,8 @@
   {
    "name": "task_eject_valley_bg.jpg",
    "res": "UnknownsAtlas.Resources.task_eject_valley_bg.jpg",
-   "size": 247759,
-   "sha256": "9e717e980203c7f7c8f280606cf00410a2b0474044693641e9d2862bd40bc547"
+   "size": 420273,
+   "sha256": "8fb8f11a892ccbb08170c25d0eddf115adfa32874de7e8b8423e3d2c526940fc"
   },
   {
    "name": "task_eject_vignette.png",
@@ -2476,8 +2476,8 @@
   {
    "name": "train_intro.cine",
    "res": "UnknownsAtlas.Maps.train.train_intro.cine",
-   "size": 87381780,
-   "sha256": "2a490dc5a63f53b8b345d234f049aebee99ac7b851bc6d9fe3961efd53179167"
+   "size": 87154273,
+   "sha256": "bc0bf21c12c9975137919f7584f9cf9412bf6f8df3ab4e5e1fb36aea58c8740f"
   },
   {
    "name": "train_props_0.png",
