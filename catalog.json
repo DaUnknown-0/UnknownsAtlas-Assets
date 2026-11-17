@@ -1,6 +1,162 @@
 {
- "tag": "v15",
+ "tag": "v16",
  "files": [
+  {
+   "name": "amberhive_consoles_0.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_consoles_0.atx",
+   "size": 560182,
+   "sha256": "ea8a65027495824ff3a0ac6ec237a3a383db252c58812d573a7568baccbac1b5"
+  },
+  {
+   "name": "amberhive_floor_0.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_0.atx",
+   "size": 168546,
+   "sha256": "2cd4bd92f6d9f782d39acd76ca236f9812764f38965ade41d83d078d2345b2b2"
+  },
+  {
+   "name": "amberhive_floor_1.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_1.atx",
+   "size": 150949,
+   "sha256": "05c1a53b84f9163898d2fcdfdf675ff8733dbeaeca4a48e50711fc6673bde681"
+  },
+  {
+   "name": "amberhive_floor_10.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_10.atx",
+   "size": 160594,
+   "sha256": "19a160f24c58c5c78ee0baabd11bf55de2037f9394709aa08fd743443cdafcf9"
+  },
+  {
+   "name": "amberhive_floor_11.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_11.atx",
+   "size": 197301,
+   "sha256": "cbe6ca11b77bf28e86440705e287a75794b8b3425c98e6fae7e184efda64cf66"
+  },
+  {
+   "name": "amberhive_floor_12.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_12.atx",
+   "size": 182128,
+   "sha256": "6deedb568b5ac351224a2b33d5034dac38fb5cf0fd055f0d71319ea79491de4c"
+  },
+  {
+   "name": "amberhive_floor_13.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_13.atx",
+   "size": 192369,
+   "sha256": "39d97a305a94c6a0a96b96fe40688bc38584be652bf6088d53a6a27684b750be"
+  },
+  {
+   "name": "amberhive_floor_14.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_14.atx",
+   "size": 169368,
+   "sha256": "d8edbdc4a3874087717e5bc90a6234106fc9917004dbd354e0934abc99c0c7b0"
+  },
+  {
+   "name": "amberhive_floor_15.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_15.atx",
+   "size": 136191,
+   "sha256": "18bf18be439ac205483861aca5c785635a75171bbc5afc9c77650bb1d7589054"
+  },
+  {
+   "name": "amberhive_floor_16.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_16.atx",
+   "size": 164095,
+   "sha256": "9b7a754cbcb79bffe8317c845ca5564790d693431ef84f5b7a9e6a43262625c0"
+  },
+  {
+   "name": "amberhive_floor_17.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_17.atx",
+   "size": 157147,
+   "sha256": "661ef622a35080a62de02a028f089a5484cb6974e0367532035a67c66d01d3f6"
+  },
+  {
+   "name": "amberhive_floor_18.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_18.atx",
+   "size": 205200,
+   "sha256": "995275d877e5da11e95f2b5940b9eb60ef3c0e492c02320502e4d6c7a0fafa07"
+  },
+  {
+   "name": "amberhive_floor_19.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_19.atx",
+   "size": 135613,
+   "sha256": "64c9042bb8cb3cf1f2af18befc910d2fdcf3fa0a07162e1c1c4f06e1e988ff0d"
+  },
+  {
+   "name": "amberhive_floor_2.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_2.atx",
+   "size": 133635,
+   "sha256": "5ecbe0936e9de5f1017ec68d3d9db362b5e1deef58ea265000069a3d7941d864"
+  },
+  {
+   "name": "amberhive_floor_20.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_20.atx",
+   "size": 164565,
+   "sha256": "847e2d88022c8796c3b47b6e0f178cb8ba7f922667eb8997c20fe7bccfc9b0d7"
+  },
+  {
+   "name": "amberhive_floor_21.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_21.atx",
+   "size": 208933,
+   "sha256": "b0f9373c28dd32bc41e3c7532aa993a15d10178fb354104dc2d0a0c3b8dae2ac"
+  },
+  {
+   "name": "amberhive_floor_22.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_22.atx",
+   "size": 210526,
+   "sha256": "3853b59d09ddd63d2f6b8ec529d97802f96634b0d69634f3de49612ca05717ee"
+  },
+  {
+   "name": "amberhive_floor_23.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_23.atx",
+   "size": 158185,
+   "sha256": "2642e2988092ad8d182941b6c5fcd52d6238660160c7d4cc63434c45e0abee7a"
+  },
+  {
+   "name": "amberhive_floor_3.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_3.atx",
+   "size": 163599,
+   "sha256": "86b36d9b4257a0aa5fcfbf8bc92592a6aa75c8a136ee3c367245d645ecadb848"
+  },
+  {
+   "name": "amberhive_floor_4.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_4.atx",
+   "size": 172213,
+   "sha256": "1ebed5f3bf1f493185cee10321a4ef7f0cde968ae69cf984db32002dff0b9849"
+  },
+  {
+   "name": "amberhive_floor_5.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_5.atx",
+   "size": 182280,
+   "sha256": "116b5a241af31048375b6b43fe9f6db7dc02611f56bf15150ca0a92fcc4ab78f"
+  },
+  {
+   "name": "amberhive_floor_6.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_6.atx",
+   "size": 158862,
+   "sha256": "c11a282768803f02bfb9482db77e0b0c0d04ea973c69701b11bf379530b3c2c4"
+  },
+  {
+   "name": "amberhive_floor_7.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_7.atx",
+   "size": 176309,
+   "sha256": "c6876d79285b3e84c67bd32d2f97eee623c07fab72fa41e882a95e62c5453404"
+  },
+  {
+   "name": "amberhive_floor_8.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_8.atx",
+   "size": 169085,
+   "sha256": "08045f0290d81c5b320affa550c0db3b82c2ebda45b4e82d3f4cb1144763edad"
+  },
+  {
+   "name": "amberhive_floor_9.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_9.atx",
+   "size": 162748,
+   "sha256": "e5875a1b9f10177dcb8da1ca0a452f9ab4a00dbc99948fba8dbd2965ea0685d2"
+  },
+  {
+   "name": "amberhive_props_0.atx",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_props_0.atx",
+   "size": 647229,
+   "sha256": "cfc5ce9d6f55d9b130df2a9072e0c4fd8d5fbb3f080f4b37e6d9238b25d5debe"
+  },
   {
    "name": "fx_vc_heat.png",
    "res": "UnknownsAtlas.Resources.fx_vc_heat.png",
@@ -632,6 +788,336 @@
    "sha256": "aa76443f9697b1729c3827270b7396d2dbeb13095b8136e0256c077a0d986579"
   },
   {
+   "name": "task_eject_hive_bee.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_bee.png",
+   "size": 23937,
+   "sha256": "97d935a1bbbefa1ca29b1faed407981f39e50d07ed94fa6477594bbe439f41a1"
+  },
+  {
+   "name": "task_eject_hive_bee_far.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_bee_far.png",
+   "size": 27039,
+   "sha256": "ddfbbe56179f288ab7d10c10f72037ee7ab614a7c57d945a6a683e2b6d03d47c"
+  },
+  {
+   "name": "task_eject_hive_deck_bg.jpg",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_bg.jpg",
+   "size": 479869,
+   "sha256": "3379ba3b5a323f1b4c1d3c98ea33d9ef5e6ab40c506b4b9252fc2d1b78213f09"
+  },
+  {
+   "name": "task_eject_hive_deck_cloud0.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_cloud0.png",
+   "size": 48364,
+   "sha256": "245592f2815c4c432a56e7bcc052a0b40c48b39005c7a66f129b17362df736db"
+  },
+  {
+   "name": "task_eject_hive_deck_cloud1.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_cloud1.png",
+   "size": 32983,
+   "sha256": "7cf5b6479306f95eabbf32ec337d7c97a23c8a9ef50c24c02cdf0e03b406df3c"
+  },
+  {
+   "name": "task_eject_hive_deck_cloud2.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_cloud2.png",
+   "size": 22941,
+   "sha256": "0c31e57ceece519b17173dceaaf9ce9b60d0c49f18f3a8ae9eb3137b9043316f"
+  },
+  {
+   "name": "task_eject_hive_deck_drop.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_drop.png",
+   "size": 3611,
+   "sha256": "8e73894f8e1c907ce61e7566b71b619457af35044fea78852a4e2df490f9acde"
+  },
+  {
+   "name": "task_eject_hive_deck_flag.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_flag.png",
+   "size": 7581,
+   "sha256": "ab4a972233fb647ec80f6f30e97ebb3f0d4320782c16fd057d20f92b5cee348a"
+  },
+  {
+   "name": "task_eject_hive_deck_flower.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_flower.png",
+   "size": 53096,
+   "sha256": "7b7a075644492e558a68e3b91591a9427b33eb0c8c707c22fb390d6f28d2d2a4"
+  },
+  {
+   "name": "task_eject_hive_deck_splat.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_splat.png",
+   "size": 4573,
+   "sha256": "abd181ac41fe65d464971ff1dd96e7283e899860176806339072b505cf4a5176"
+  },
+  {
+   "name": "task_eject_hive_deck_stem.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_deck_stem.png",
+   "size": 22178,
+   "sha256": "457c84346f84a5373a9946aa6f58913ec6d50d2c1cbcfb6edc211eddb1d384e1"
+  },
+  {
+   "name": "task_eject_hive_queen_arm.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_arm.png",
+   "size": 11074,
+   "sha256": "58308c0f3a3895d18062829aae54669c03784e8c90241f341b9494f09d1290cc"
+  },
+  {
+   "name": "task_eject_hive_queen_bg.jpg",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_bg.jpg",
+   "size": 559737,
+   "sha256": "5c075b40c7309a136b3c1c8a0916659a21224538ed4b5a5411fa544b9e5c4d05"
+  },
+  {
+   "name": "task_eject_hive_queen_body.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_body.png",
+   "size": 124572,
+   "sha256": "bfdb12639b7e6007dea03e4a84e040c0b36f2e015c6b908c763c729dcf78c4b4"
+  },
+  {
+   "name": "task_eject_hive_queen_crown.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_crown.png",
+   "size": 23513,
+   "sha256": "ff856b4d7e74420e97e95c5d4ac9b07acf1fc4f8146f6f46c93f273aaf82c3e4"
+  },
+  {
+   "name": "task_eject_hive_queen_fan.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_fan.png",
+   "size": 16063,
+   "sha256": "80839921e8a7d3b4ff30dd5b75fb275d5594b75fdeee05ed6f698ea5b4199de9"
+  },
+  {
+   "name": "task_eject_hive_queen_flame.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_flame.png",
+   "size": 2780,
+   "sha256": "8ed30505a188b7a08f8ecec819b7f3987d7f02dd45e395b8bb802f9a48680ca3"
+  },
+  {
+   "name": "task_eject_hive_queen_head_awake.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_head_awake.png",
+   "size": 38868,
+   "sha256": "05cca7ce6c266a51bda64c77c2d7efa6fb3e9b3d5952f0b3914760cfbbf1bc06"
+  },
+  {
+   "name": "task_eject_hive_queen_head_sleep.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_head_sleep.png",
+   "size": 37631,
+   "sha256": "a2753958289a008b7f6211a6a54927e937c2012bbd9c48b737476f0e2d34609f"
+  },
+  {
+   "name": "task_eject_hive_queen_head_yawn.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_head_yawn.png",
+   "size": 48155,
+   "sha256": "2a24f9083a5c05eb49bf9d23703a1108e7f6aadefb61df22829f63a1b9782563"
+  },
+  {
+   "name": "task_eject_hive_queen_snot.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_snot.png",
+   "size": 7024,
+   "sha256": "5b20a7fb1e375e3ecc8568a995e79361a66252b9caab9b014f3dbe05ddc8ff6f"
+  },
+  {
+   "name": "task_eject_hive_queen_wing.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_wing.png",
+   "size": 11094,
+   "sha256": "8f05616c72bea6c0f5a98164a37bb7defd5c0a03391ee181b3301d27d096526a"
+  },
+  {
+   "name": "task_eject_hive_queen_z.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_queen_z.png",
+   "size": 4041,
+   "sha256": "eec8d8dfcd678a16a61e07754d9953b6206f3f7c42a6688f7f9646eb4f7c34d2"
+  },
+  {
+   "name": "task_eject_hive_shadow.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_shadow.png",
+   "size": 4011,
+   "sha256": "418c3d773dd7300f69930c04a017aa4dc4d5a5240f9ce3a801fa749b7c785c4d"
+  },
+  {
+   "name": "task_eject_hive_swarm_bg.jpg",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_swarm_bg.jpg",
+   "size": 589000,
+   "sha256": "f8f53e8e9528c9bd1f31360f4a36bc427bb37469269e40c7d666163797da8e68"
+  },
+  {
+   "name": "task_eject_hive_swarm_fg_l.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_swarm_fg_l.png",
+   "size": 192645,
+   "sha256": "97a8826456a3f822cf3e16af065b07e489bb509787612036e4fda964f1aa748c"
+  },
+  {
+   "name": "task_eject_hive_swarm_fg_r.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_swarm_fg_r.png",
+   "size": 125017,
+   "sha256": "920c45844e10541a2a5fe5a883c3a71333b626e3ed2a17d44db1ef6f4f1a888c"
+  },
+  {
+   "name": "task_eject_hive_swarm_lamp.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_swarm_lamp.png",
+   "size": 13266,
+   "sha256": "5aa7b784852eca696e43d083dacf357884af952090346d34be84ba6d66a6a197"
+  },
+  {
+   "name": "task_eject_hive_well_bg.jpg",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_bg.jpg",
+   "size": 453077,
+   "sha256": "b29091387db55a2d084b48f0a77a1e9ddf37ec3786b292e58687ad519b539029"
+  },
+  {
+   "name": "task_eject_hive_well_br00.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br00.png",
+   "size": 94696,
+   "sha256": "787c02a7464f9d39cf04191b0e6a3d08c572d8aab547422f67d3401bee6a987c"
+  },
+  {
+   "name": "task_eject_hive_well_br01.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br01.png",
+   "size": 116027,
+   "sha256": "6bbe2664883819e2ac9fb1000831f489cc056b33dab171ead985f4a45fddfb46"
+  },
+  {
+   "name": "task_eject_hive_well_br02.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br02.png",
+   "size": 130349,
+   "sha256": "78111e2fbc4bb32f6810594a82033e6d4e7af2dc25fd19c3226d29bbea69b020"
+  },
+  {
+   "name": "task_eject_hive_well_br03.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br03.png",
+   "size": 137257,
+   "sha256": "0896c341b2aea9745ca9adadff687e138e0724bbf353a17aa4d61832bfd243b4"
+  },
+  {
+   "name": "task_eject_hive_well_br04.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br04.png",
+   "size": 139729,
+   "sha256": "3c5c434e1efc0bc51af2e7a29aed4f7616a987264cd9482fc2c31358ed811625"
+  },
+  {
+   "name": "task_eject_hive_well_br05.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br05.png",
+   "size": 149002,
+   "sha256": "c73e29b9009e7a8febbcb2e328321bb4b3b1cf68a3dd021405829bd7c3330b70"
+  },
+  {
+   "name": "task_eject_hive_well_br06.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br06.png",
+   "size": 147017,
+   "sha256": "4590d5f4e37c214a473c8680daaa48f6dc9127de979a055a750f1d8d539f422d"
+  },
+  {
+   "name": "task_eject_hive_well_br07.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br07.png",
+   "size": 151128,
+   "sha256": "d8257cfcc9add5d91b9edfc7e477abe1f5e028bd4bcea6f0d9f199a68baa8014"
+  },
+  {
+   "name": "task_eject_hive_well_br08.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br08.png",
+   "size": 143619,
+   "sha256": "4b38452c0dbadb45eaf71461e655896e8e4a57d18fac6ee514c86b4c2c28ac53"
+  },
+  {
+   "name": "task_eject_hive_well_br09.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br09.png",
+   "size": 153000,
+   "sha256": "3abd375bf458a101292dbff5a57af9ddd1640f0736905c77638fa579f6359b38"
+  },
+  {
+   "name": "task_eject_hive_well_br10.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br10.png",
+   "size": 142518,
+   "sha256": "525b51ff216757a9a2fe0b83103edd317302ee6ba58f5e9811fdce44111e9fe6"
+  },
+  {
+   "name": "task_eject_hive_well_br11.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br11.png",
+   "size": 144631,
+   "sha256": "10a670b27f02e882c185692332af003cf136cfb56174e66f20ed4e8707e5c2a0"
+  },
+  {
+   "name": "task_eject_hive_well_br12.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br12.png",
+   "size": 127728,
+   "sha256": "bccef043639b1c0ee8b1105aef0d3d6e4a3f6ac9c2861bbc449996023e0d9c09"
+  },
+  {
+   "name": "task_eject_hive_well_br13.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br13.png",
+   "size": 137715,
+   "sha256": "c648f189c550e6506c2a6d90811984aba71399ca122d82c0ed9bf6fda630ccc6"
+  },
+  {
+   "name": "task_eject_hive_well_br14.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br14.png",
+   "size": 128686,
+   "sha256": "17f758d4c1c1d537dc2c4ec3e395163f9b694847ee5647f2eef73496a8188aa0"
+  },
+  {
+   "name": "task_eject_hive_well_br15.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br15.png",
+   "size": 132887,
+   "sha256": "6cdade6b7cfe8dd28d5b903c1fe47c065d58707318efad3d7db176fb7d2941c3"
+  },
+  {
+   "name": "task_eject_hive_well_br16.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br16.png",
+   "size": 123911,
+   "sha256": "52e90012673e5a32002a9b88f4de4fc656718ed2bb48a79be87f1d9ad6a791a7"
+  },
+  {
+   "name": "task_eject_hive_well_br17.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br17.png",
+   "size": 120129,
+   "sha256": "efaafc771a31d85188f88bb5bbe94d697cd81dd037bb9dbcf2347e12d4c3f25c"
+  },
+  {
+   "name": "task_eject_hive_well_br18.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_br18.png",
+   "size": 108756,
+   "sha256": "c78eb6e5babc7839276434bba056f82e5aa3636187251e1bfdb3b0c15a875100"
+  },
+  {
+   "name": "task_eject_hive_well_bubble.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_bubble.png",
+   "size": 4094,
+   "sha256": "aac64f4ed3effd969304cc8ce39c3732c2a0221de9b51a0729f28e9a86f5add6"
+  },
+  {
+   "name": "task_eject_hive_well_cog.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_cog.png",
+   "size": 29655,
+   "sha256": "f7eda91f10423cd22e428a71603e469dd9711aa61e1af3a7588aaa2656779d3f"
+  },
+  {
+   "name": "task_eject_hive_well_foam.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_foam.png",
+   "size": 6043,
+   "sha256": "4587cf79b58127930bc3dd398004d3ec6122c646b2cf303d5a5eaac3421d47a1"
+  },
+  {
+   "name": "task_eject_hive_well_honey.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_honey.png",
+   "size": 29303,
+   "sha256": "c57c1c62dd06bbd48494d843e079033b51e07c181b9da9fc5217f7b84ede166a"
+  },
+  {
+   "name": "task_eject_hive_well_ripple.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_ripple.png",
+   "size": 4425,
+   "sha256": "e09ba61eba8a08fdc37c39c4f53f77923fd9f087409538fde413755a1b7d3639"
+  },
+  {
+   "name": "task_eject_hive_well_stream.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_well_stream.png",
+   "size": 17621,
+   "sha256": "0a257060019d5ddd74a010f0230546df6d8c192ba7091dc78dacbc9c6579e730"
+  },
+  {
+   "name": "task_eject_hive_wing.png",
+   "res": "UnknownsAtlas.Resources.task_eject_hive_wing.png",
+   "size": 4850,
+   "sha256": "8a733228db01eea50d92d0b25cebd9cbdfc8b5ff40ca861834fa64f53a89f5a5"
+  },
+  {
    "name": "task_eject_lantern.png",
    "res": "UnknownsAtlas.Resources.task_eject_lantern.png",
    "size": 6975,
@@ -1134,6 +1620,186 @@
    "res": "UnknownsAtlas.Resources.task_hand.png",
    "size": 886,
    "sha256": "9509169405c0c243f416e032a860ce454efb06947f24b2549a401b7c328f9bc7"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_0.png",
+   "size": 41611,
+   "sha256": "d969c208da89a9620ee50153eddb5bd49f2f7b89407c7a9306a987493598a1cb"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_1.png",
+   "size": 41858,
+   "sha256": "6e81efcd375aa2f663402fc5c4fbc50c66699ba0a2b39a7739bf668a1cd116a4"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_2.png",
+   "size": 41403,
+   "sha256": "4d25cfd3a2b7c766e3fac4fc6ba31079645944ef78ce45864f9f344d03d06f8f"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_3.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_3.png",
+   "size": 44476,
+   "sha256": "4d436c67685ec263df1077cac32ae1f0faf5a648683213ffa1dded4d22855f3a"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_4.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_4.png",
+   "size": 45835,
+   "sha256": "81da363538f8b7c99ac106e80b5d8e2912d3640c2b8e653e93c3e253628d9d5a"
+  },
+  {
+   "name": "task_hive_anim_bellows_big_5.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_bellows_big_5.png",
+   "size": 41460,
+   "sha256": "c098356a32ceb71fc95b3ec5939ba9f3132fc010f23092b0fb10651f2528cd96"
+  },
+  {
+   "name": "task_hive_anim_dance_floor_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_dance_floor_0.png",
+   "size": 87060,
+   "sha256": "465c99fa12568d5e47a54eb234b3a0ece526d064c62a8f61c73fe24368aced83"
+  },
+  {
+   "name": "task_hive_anim_dance_floor_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_dance_floor_1.png",
+   "size": 83856,
+   "sha256": "bb6e5f98380002a9b84e3823f54991218323c0b6c617cd30227d6cb1a3849fdd"
+  },
+  {
+   "name": "task_hive_anim_dance_floor_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_dance_floor_2.png",
+   "size": 82347,
+   "sha256": "2adffe5421f6f5d88b3a23c2574a0f377ccb2eb16e844a1cee6021d96df23a98"
+  },
+  {
+   "name": "task_hive_anim_dance_floor_3.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_dance_floor_3.png",
+   "size": 83213,
+   "sha256": "7658aec4973cfa4a4af4b836f5cd9198b6911517d7387c85ea99299268ff36bb"
+  },
+  {
+   "name": "task_hive_anim_glow_rack_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_glow_rack_0.png",
+   "size": 65732,
+   "sha256": "605ff82eb280c3d758e76eb16ded0d25a83f376f9d651d3b1eddeb76d5b1a3a9"
+  },
+  {
+   "name": "task_hive_anim_glow_rack_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_glow_rack_1.png",
+   "size": 66421,
+   "sha256": "1281d80b9c53fc935e1e90b536f22930a3ff9ba84707344654bbb1b938350f18"
+  },
+  {
+   "name": "task_hive_anim_glow_rack_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_glow_rack_2.png",
+   "size": 65831,
+   "sha256": "1453d1b1a0e016f293219247c9c97282e94d731a77f6807a3e9dfaa0a96e6b6f"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_0.png",
+   "size": 76588,
+   "sha256": "aee758d0f407a7cd4c01bf0567ae9f759b17ff4760adb29d83a4fda4b6f6e838"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_1.png",
+   "size": 78584,
+   "sha256": "04555e91f2b09fea90460ade2717875b202554a29c193a7014a8882ae971ab0a"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_2.png",
+   "size": 78500,
+   "sha256": "d4b74cca27d2ea290fff2683f9346c1f0144be5d9780050a2f3243a34e8546bc"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_3.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_3.png",
+   "size": 78104,
+   "sha256": "91632140f54e8cc9020828e2ca0561e480f96c7ddc762d60c0fb051ef147efed"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_4.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_4.png",
+   "size": 77494,
+   "sha256": "aed43af92c015501b8184c8c53781864892edb5eff37a027c6428a0abce3a9c4"
+  },
+  {
+   "name": "task_hive_anim_nectar_press_5.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_nectar_press_5.png",
+   "size": 75449,
+   "sha256": "2c35a3e2a5cb5ce8542f85c6fd717c4d334b2dda47f077f207cadd5b03bf45c8"
+  },
+  {
+   "name": "task_hive_anim_wax_cauldron_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_wax_cauldron_0.png",
+   "size": 73099,
+   "sha256": "3a5f2a2b7a28a41a2e33001a564f1d3c2f36f3cecb406d7745f86d114e18851d"
+  },
+  {
+   "name": "task_hive_anim_wax_cauldron_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_wax_cauldron_1.png",
+   "size": 73178,
+   "sha256": "dd87f2cc03e5ebc68abf0af32b43b6e043d895658d0233a351f3e896903764b2"
+  },
+  {
+   "name": "task_hive_anim_wax_cauldron_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_wax_cauldron_2.png",
+   "size": 73994,
+   "sha256": "1c8cce8abbdd86fae609ef7f32bfc4685127e0b58f592b041d8cf8b3d1124361"
+  },
+  {
+   "name": "task_hive_anim_wax_cauldron_3.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_anim_wax_cauldron_3.png",
+   "size": 74120,
+   "sha256": "22c4330915a520a5750f4b3ad63f55a2967710aef19aba200417196a5006433d"
+  },
+  {
+   "name": "task_hive_bee_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_bee_0.png",
+   "size": 8022,
+   "sha256": "6cfc0c1bc5cdafe79bf0fb872a7aab2d457985608ac2f6f480ba79e992f04d27"
+  },
+  {
+   "name": "task_hive_bee_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_bee_1.png",
+   "size": 7508,
+   "sha256": "7df9c7af2c01026792945cd724dc07d83022404cc2518ab67facdefc223e8d3b"
+  },
+  {
+   "name": "task_hive_bridge.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_bridge.png",
+   "size": 8342,
+   "sha256": "cc9501e0dc49947473efca51605f70f8cb8508558ec8c9fed92852c19996ee33"
+  },
+  {
+   "name": "task_hive_flood_0.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_flood_0.png",
+   "size": 36701,
+   "sha256": "f44ba821e2ea339de8890d0ccc720988093fce9952db7633759b1c679a671646"
+  },
+  {
+   "name": "task_hive_flood_1.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_flood_1.png",
+   "size": 36793,
+   "sha256": "5fa17e6975e5486327b0669e7b8a696fdf42f1d6c6877d795ebd59ee2bb67c3f"
+  },
+  {
+   "name": "task_hive_flood_2.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_flood_2.png",
+   "size": 18925,
+   "sha256": "e8effe3e27f0d178a263eb76f0c491d691f87e67a679c0f0f2a82f231f61fe7b"
+  },
+  {
+   "name": "task_hive_flood_3.png",
+   "res": "UnknownsAtlas.Maps.amberhive.task_hive_flood_3.png",
+   "size": 21516,
+   "sha256": "f2cd1bcb9ae61ca5632b3a824628a6c3578572460329027c88a694122ea5c88d"
   },
   {
    "name": "task_icon_dino.png",

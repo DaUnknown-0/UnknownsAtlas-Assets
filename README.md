@@ -1,7 +1,7 @@
 # UnknownsAtlas-Assets
 
 Map images for **Unknown's Atlas**: the floor, object and console atlases of the built-in maps (Vesper Museum,
-Forest Station, Moonlight Carnival, Polaris Express) and the pictures of the custom minigames and eject scenes.
+Forest Station, Moonlight Carnival, Polaris Express, Amberhive) and the pictures of the custom minigames and eject scenes.
 
 They are not shipped inside `UnknownsAtlas.dll` any more. The mod downloads them automatically into
 `BepInEx/atlas-assets` and checks every file against the size and SHA-256 in its built-in catalog: at every start, and
@@ -14,6 +14,9 @@ again whenever a file in that folder is changed, deleted or replaced. Missing or
   pictures of the Polaris Express (a map in the file format; its `map.json`, buttons and minimap stay in the DLL).
 - `files/task_vc_*.png`, `files/fx_vc_*.png`: minigame boards and effects of the extra Vanilla sabotages (the map
   buttons `icon_vc_*` stay in the DLL; without the download the minigames draw their simple shapes).
+- Amberhive images are included from `v16`: 24 packed floor tiles, one object atlas, one console atlas,
+  30 world animation and effect images, and 55 eject scene layers including four backgrounds. Registration,
+  buttons, minimaps and the ten small Ogg sounds stay in the mod DLL.
 - Files that are not in the catalog of the running build are deleted from `BepInEx/atlas-assets` at start.
 - Each tag (`v1`, `v2`, ...) is one set of images; a build of the mod always reads from the tag in its catalog.
 
