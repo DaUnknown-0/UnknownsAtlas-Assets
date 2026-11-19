@@ -1,5 +1,5 @@
 {
- "tag": "v16",
+ "tag": "v17",
  "files": [
   {
    "name": "amberhive_consoles_0.atx",
@@ -10,80 +10,80 @@
   {
    "name": "amberhive_floor_0.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_0.atx",
-   "size": 168546,
-   "sha256": "2cd4bd92f6d9f782d39acd76ca236f9812764f38965ade41d83d078d2345b2b2"
+   "size": 164367,
+   "sha256": "d8675ee487ddcf7bef207ac198678e81a2512e7cd0d98fdb784dc3a6aad3c019"
   },
   {
    "name": "amberhive_floor_1.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_1.atx",
-   "size": 150949,
-   "sha256": "05c1a53b84f9163898d2fcdfdf675ff8733dbeaeca4a48e50711fc6673bde681"
+   "size": 155540,
+   "sha256": "99a7cad9e51cf7599342eff0c13e3b523c29fa13879f8ca8de267eb80114d34a"
   },
   {
    "name": "amberhive_floor_10.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_10.atx",
-   "size": 160594,
-   "sha256": "19a160f24c58c5c78ee0baabd11bf55de2037f9394709aa08fd743443cdafcf9"
+   "size": 167587,
+   "sha256": "50594c8b3b5a4c5b1a6246198cff596158472ef583596e27f8e8bde3289f5a09"
   },
   {
    "name": "amberhive_floor_11.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_11.atx",
-   "size": 197301,
-   "sha256": "cbe6ca11b77bf28e86440705e287a75794b8b3425c98e6fae7e184efda64cf66"
+   "size": 202315,
+   "sha256": "0a5ff14b6bf3fc8cffa11f3d931e7eda6b713873d54153a2c5c1cdb9b1962557"
   },
   {
    "name": "amberhive_floor_12.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_12.atx",
-   "size": 182128,
-   "sha256": "6deedb568b5ac351224a2b33d5034dac38fb5cf0fd055f0d71319ea79491de4c"
+   "size": 184982,
+   "sha256": "3a8d9d69f1a5f5a0c39956f6528650dcf9f2352e9f151afa2830be57e658dfd4"
   },
   {
    "name": "amberhive_floor_13.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_13.atx",
-   "size": 192369,
-   "sha256": "39d97a305a94c6a0a96b96fe40688bc38584be652bf6088d53a6a27684b750be"
+   "size": 197680,
+   "sha256": "fdc5a22af43e61401e1c458619709d2f5f3b14cef40b6f433f22b9af998b121a"
   },
   {
    "name": "amberhive_floor_14.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_14.atx",
-   "size": 169368,
-   "sha256": "d8edbdc4a3874087717e5bc90a6234106fc9917004dbd354e0934abc99c0c7b0"
+   "size": 170261,
+   "sha256": "5235a0ebf79fe0ff8c352725e1f8354e11abccf6c9e763b102d8c9e7cf341508"
   },
   {
    "name": "amberhive_floor_15.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_15.atx",
-   "size": 136191,
-   "sha256": "18bf18be439ac205483861aca5c785635a75171bbc5afc9c77650bb1d7589054"
+   "size": 145997,
+   "sha256": "0d93f9c4f5f719646c5003cef2634daa97ff58cf9c125d7bd23bfe5881458f6f"
   },
   {
    "name": "amberhive_floor_16.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_16.atx",
-   "size": 164095,
-   "sha256": "9b7a754cbcb79bffe8317c845ca5564790d693431ef84f5b7a9e6a43262625c0"
+   "size": 159581,
+   "sha256": "0b4fc9814a36f9017f0f7d6891e1d4957915812fe2b79869e4aa90c6408e60a7"
   },
   {
    "name": "amberhive_floor_17.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_17.atx",
-   "size": 157147,
-   "sha256": "661ef622a35080a62de02a028f089a5484cb6974e0367532035a67c66d01d3f6"
+   "size": 164606,
+   "sha256": "772b4dd81ea12faf9f81475ca26f59e03f2f2430c345322e31522462ce8881f9"
   },
   {
    "name": "amberhive_floor_18.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_18.atx",
-   "size": 205200,
-   "sha256": "995275d877e5da11e95f2b5940b9eb60ef3c0e492c02320502e4d6c7a0fafa07"
+   "size": 197834,
+   "sha256": "495760cf63c699eff98f7c7880a36e43e0340bb00f2580948f5b14cad6dbdd87"
   },
   {
    "name": "amberhive_floor_19.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_19.atx",
-   "size": 135613,
-   "sha256": "64c9042bb8cb3cf1f2af18befc910d2fdcf3fa0a07162e1c1c4f06e1e988ff0d"
+   "size": 137655,
+   "sha256": "84f90417acdf4b1bb2bd33a13e5e0c9cac52d6048744530d78cf1e5c616e9148"
   },
   {
    "name": "amberhive_floor_2.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_2.atx",
-   "size": 133635,
-   "sha256": "5ecbe0936e9de5f1017ec68d3d9db362b5e1deef58ea265000069a3d7941d864"
+   "size": 133951,
+   "sha256": "1dbb909730939506fb0873bf57c75c6317db74c969db6f08fde025e5599160f0"
   },
   {
    "name": "amberhive_floor_20.atx",
@@ -112,44 +112,50 @@
   {
    "name": "amberhive_floor_3.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_3.atx",
-   "size": 163599,
-   "sha256": "86b36d9b4257a0aa5fcfbf8bc92592a6aa75c8a136ee3c367245d645ecadb848"
+   "size": 159547,
+   "sha256": "0209004f6024990470c0d4671cb5c032f516c7b1d0465e5dc67d9598da04f0ce"
   },
   {
    "name": "amberhive_floor_4.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_4.atx",
-   "size": 172213,
-   "sha256": "1ebed5f3bf1f493185cee10321a4ef7f0cde968ae69cf984db32002dff0b9849"
+   "size": 172447,
+   "sha256": "50815c8bd1308b9486c12c55f54378cec2e50c10dfda524189f5a37f183a8445"
   },
   {
    "name": "amberhive_floor_5.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_5.atx",
-   "size": 182280,
-   "sha256": "116b5a241af31048375b6b43fe9f6db7dc02611f56bf15150ca0a92fcc4ab78f"
+   "size": 165822,
+   "sha256": "7a4111f451215310a483c6ca310da21d073df0d72ad0bed8d3f432320dd13def"
   },
   {
    "name": "amberhive_floor_6.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_6.atx",
-   "size": 158862,
-   "sha256": "c11a282768803f02bfb9482db77e0b0c0d04ea973c69701b11bf379530b3c2c4"
+   "size": 151371,
+   "sha256": "be78faa70e017b1b1ddb7348fcfc7f98f1af2c5e6e3f9ad2c2fa07647f3b9c18"
   },
   {
    "name": "amberhive_floor_7.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_7.atx",
-   "size": 176309,
-   "sha256": "c6876d79285b3e84c67bd32d2f97eee623c07fab72fa41e882a95e62c5453404"
+   "size": 176973,
+   "sha256": "d110b900ced3093a78102df5aa4b9027d6cc491871cf7591b2a4388ac85de612"
   },
   {
    "name": "amberhive_floor_8.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_8.atx",
-   "size": 169085,
-   "sha256": "08045f0290d81c5b320affa550c0db3b82c2ebda45b4e82d3f4cb1144763edad"
+   "size": 165713,
+   "sha256": "0c114901b420ea883e21a3c181b9aadebbafcac77341b001c2a5bf327b709a83"
   },
   {
    "name": "amberhive_floor_9.atx",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_floor_9.atx",
-   "size": 162748,
-   "sha256": "e5875a1b9f10177dcb8da1ca0a452f9ab4a00dbc99948fba8dbd2965ea0685d2"
+   "size": 164294,
+   "sha256": "5f40b25d2c0e8b9783b08702cb689908a4953112184f23fbfd4ccd7921394fa3"
+  },
+  {
+   "name": "amberhive_intro.cine",
+   "res": "UnknownsAtlas.Maps.amberhive.amberhive_intro.cine",
+   "size": 82442828,
+   "sha256": "139c4c658ef32ad8605b08ac97751ab09591e43a53318a1d5aafd684580748c7"
   },
   {
    "name": "amberhive_props_0.atx",
