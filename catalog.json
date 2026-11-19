@@ -1,5 +1,5 @@
 {
- "tag": "v17",
+ "tag": "v18",
  "files": [
   {
    "name": "amberhive_consoles_0.atx",
@@ -154,8 +154,8 @@
   {
    "name": "amberhive_intro.cine",
    "res": "UnknownsAtlas.Maps.amberhive.amberhive_intro.cine",
-   "size": 82442828,
-   "sha256": "139c4c658ef32ad8605b08ac97751ab09591e43a53318a1d5aafd684580748c7"
+   "size": 85154918,
+   "sha256": "766cb7e674e9015179d4ed5e2f824c28ea2fdda38a2202e217677584efefb2fa"
   },
   {
    "name": "amberhive_props_0.atx",
