@@ -1,5 +1,5 @@
 {
- "tag": "v18",
+ "tag": "v19",
  "files": [
   {
    "name": "amberhive_consoles_0.atx",
@@ -196,8 +196,8 @@
   {
    "name": "museum_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.museum_consoles_0.atx",
-   "size": 447959,
-   "sha256": "7fd4b0097705a6149993ad97be6aeb938a56035cea441a4236331b5cdd4925a7"
+   "size": 410692,
+   "sha256": "69de3f97169987880bed43fee24829a5c61e7bbf5f50615b28abca9df901ba17"
   },
   {
    "name": "museum_floor_0.atx",
@@ -322,14 +322,14 @@
   {
    "name": "museum_props_0.atx",
    "res": "UnknownsAtlas.Resources.museum_props_0.atx",
-   "size": 2808383,
-   "sha256": "d01097b14621fa93a257ae45c2760d591e18ae70f87bc2c56d98586e6e236114"
+   "size": 1224232,
+   "sha256": "29cf65069386788620f5f3ab2b7ac8f314f0ea0ea6fd0dec8a231b409e2b5dc3"
   },
   {
    "name": "park_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.park_consoles_0.atx",
-   "size": 592601,
-   "sha256": "577c49832c056926286a862ce20410f5aefc966120011c3d9bab285313f29079"
+   "size": 430627,
+   "sha256": "b697f1465bfc25f48c2c5ba54c581aa6893c9e530e72984f9c75437fe84d7a25"
   },
   {
    "name": "park_floor_0.atx",
@@ -406,26 +406,26 @@
   {
    "name": "park_props_0.atx",
    "res": "UnknownsAtlas.Resources.park_props_0.atx",
-   "size": 515366,
-   "sha256": "36e34404c0602adea3cf89585576b4a892f6f0015fbcbd769bc9d25c958d95bd"
+   "size": 223825,
+   "sha256": "d62ee25e7f045c01397286c637f0c04a93c45c5856d88ac186725fcc91a4b2ea"
   },
   {
    "name": "park_props_1.atx",
    "res": "UnknownsAtlas.Resources.park_props_1.atx",
-   "size": 735425,
-   "sha256": "8e369f1fc577101fbf7a72a85cc663a22f86d1094467bb6f234d4f5ba6f243e1"
+   "size": 226515,
+   "sha256": "be2bde85a2b0ac4ce7b9075d04da9d0fce2eb7581b5c0f0e1810f8bb45600c21"
   },
   {
    "name": "park_props_2.atx",
    "res": "UnknownsAtlas.Resources.park_props_2.atx",
-   "size": 856079,
-   "sha256": "c736f086b7d9b583a1cbfbfd22e1c15d34923b4e62085ae397b01af09d2f33cf"
+   "size": 424953,
+   "sha256": "6e97c78c5a26d35ca1d064d8ae28dc8484c82fe965dfbc44424d8827683ece3a"
   },
   {
    "name": "park_props_3.atx",
    "res": "UnknownsAtlas.Resources.park_props_3.atx",
-   "size": 229085,
-   "sha256": "7f490a7849da7d4809ec0191d96d6f1bb1db713016ef9156b57f18e0b851f577"
+   "size": 50271,
+   "sha256": "7afbe90247c9e72a776bc44b9516f6a6b5f26d487aa3928be96dc81ede59432c"
   },
   {
    "name": "task_audioguide.png",
@@ -3064,62 +3064,62 @@
   {
    "name": "train_consoles_0.png",
    "res": "UnknownsAtlas.Maps.train.train_consoles_0.png",
-   "size": 1078061,
-   "sha256": "0a35cfe6f4708e873b8d24bdfd0d90141370127db43b18c93db6f89bd6df4992"
+   "size": 681409,
+   "sha256": "4a6cea8af42520d41504c73e04fffab79fc343a6e318742d7ebd4d6adaac952e"
   },
   {
    "name": "train_consoles_1.png",
    "res": "UnknownsAtlas.Maps.train.train_consoles_1.png",
-   "size": 125261,
-   "sha256": "4dbf06190a07e43d29084a38ce0d2a9b0a896a27068cdc66b8656f5f08735812"
+   "size": 80350,
+   "sha256": "6692bbf2ca3d930ac61b92709334cc4b409c2ed0fc92fc76c216cde07917cee8"
   },
   {
    "name": "train_floor_0.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_0.png",
-   "size": 945460,
-   "sha256": "f9d88a947281efef9999206e734561b0b30f2cbfdb44a3feb9a8aa5a68476c86"
+   "size": 939560,
+   "sha256": "f11043d88fdf6ef99390d9b0d2efafdbeb234b40264358c4128642216048ab02"
   },
   {
    "name": "train_floor_1.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_1.png",
-   "size": 928169,
-   "sha256": "ba4af45a477210e8ca5cb2dd57154e7643d1e3c768a5a9bbc33b758943b3e2cc"
+   "size": 925590,
+   "sha256": "6010e80db050b04d8a8f867bcb6ad34f45bc064ebab9517cbe677934d4f5832a"
   },
   {
    "name": "train_floor_2.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_2.png",
-   "size": 898233,
-   "sha256": "940b6d339e3bf2177436decdde226681457f58b68aa0d5b53a38f09c26f3457b"
+   "size": 892494,
+   "sha256": "c413cd17c2ad0d07df8cf317b94f021b310e37bfac8ce62388c9386a83a64251"
   },
   {
    "name": "train_floor_3.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_3.png",
-   "size": 551291,
-   "sha256": "0e66606dfa70b19d224b96393f947b6df331b03e277877a43463d1f101aaf43d"
+   "size": 546660,
+   "sha256": "4b07f12da7038cc83ae412f9fb3e709a770bc656a8053e46a2acaa65802f3df9"
   },
   {
    "name": "train_floor_4.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_4.png",
-   "size": 531280,
-   "sha256": "be2b7b57d990aec489e06097ab33a8840caf3f5d65f7a44e164720ad6b302630"
+   "size": 542321,
+   "sha256": "371333d263561b1a86ad838b04c77c7a5095365302f57e777103b1028712b2ec"
   },
   {
    "name": "train_floor_5.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_5.png",
-   "size": 608665,
-   "sha256": "8e42542cb4f08739e1dff4c74572006b05836e5243bbfaf8483a6676310dd3ad"
+   "size": 616252,
+   "sha256": "d498259f8b91a9923ba873d15483562cfae31aa15f89fc30decd00f624511259"
   },
   {
    "name": "train_floor_6.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_6.png",
-   "size": 649060,
-   "sha256": "edfeec8c475f89711f0b985122178e16412e42d47e52503b668fa506150554e4"
+   "size": 658909,
+   "sha256": "b82ef2b885b0252bc8e99179a131312705c7cb19d9c4c04967f1adf0165f4290"
   },
   {
    "name": "train_floor_7.png",
    "res": "UnknownsAtlas.Maps.train.train_floor_7.png",
-   "size": 71589,
-   "sha256": "1e30d80115212468d7f522d0338296a95fa348a9f64fe976ac9fd35dda3f9e9e"
+   "size": 82765,
+   "sha256": "393e78681c9cd01c9f1439fa9910c32505835563de0ca1c3b21f454951c6ed12"
   },
   {
    "name": "train_fx_fire.png",
@@ -3154,14 +3154,14 @@
   {
    "name": "train_props_0.png",
    "res": "UnknownsAtlas.Maps.train.train_props_0.png",
-   "size": 1186487,
-   "sha256": "f7d5a8510c81dc161ac1de30e84042f6eac822edfa74d636dc8045c9f3f3c483"
+   "size": 389527,
+   "sha256": "29e07d06eadb23d5befbcd214b283e05d9205948065681b20fc75552fada9fb3"
   },
   {
    "name": "train_props_1.png",
    "res": "UnknownsAtlas.Maps.train.train_props_1.png",
-   "size": 842173,
-   "sha256": "8a4a9c6b13cd3518f6889a37d0f7ae473d4a3c005cbdedde1fc207fe69818f73"
+   "size": 318278,
+   "sha256": "b32824ce2703eae1f626713b102af5cb067b0bc11104b795370818ab7ecac613"
   },
   {
    "name": "train_scroll_0.png",
@@ -3178,8 +3178,8 @@
   {
    "name": "wald_consoles_0.atx",
    "res": "UnknownsAtlas.Resources.wald_consoles_0.atx",
-   "size": 593347,
-   "sha256": "4b7be88cf198e4999f248ec4065e2076a1fbfeb4e969c7a5eaa94ebd46593531"
+   "size": 487048,
+   "sha256": "37ce4ade9bf0772d6fa89508df29e8f3d8f31625ef6e7645d43374696a8cdfde"
   },
   {
    "name": "wald_floor_0.atx",
@@ -3304,8 +3304,8 @@
   {
    "name": "wald_props_0.atx",
    "res": "UnknownsAtlas.Resources.wald_props_0.atx",
-   "size": 2168120,
-   "sha256": "e07c0cf11d4f69b4640cd59ae363c8a83515eda6db07fd14ca4fe032b3915910"
+   "size": 931046,
+   "sha256": "18bc781592a097268ac7296dead2bcfaa72e8d485118e05f081af05b80af4aea"
   }
  ]
 }
